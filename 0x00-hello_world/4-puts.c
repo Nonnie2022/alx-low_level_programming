@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
- * Main - this program will print programming is like building a multilingual puzzle
- * Return - this returns zero if there is no error
+ * Main - serves as entry point for the program
+ * Description: This program prints a line of text
+ * Return - by default, returns zero if there are no error
  */
-int main (void)
+int main(void)
 {
-	puts("/"Programming is like building a multilingual puzzle\n");
+	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
 }

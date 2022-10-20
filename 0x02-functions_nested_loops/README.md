@@ -12,3 +12,4 @@ A function that prints all natural numbers from n to 98
 Advanced task 1
 Advanced task 2
 Advanced task 4
+Advanced task 5

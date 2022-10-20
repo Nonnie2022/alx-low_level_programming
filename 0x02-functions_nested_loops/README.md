@@ -11,3 +11,4 @@ function that adds two integers and returns result
 A function that prints all natural numbers from n to 98
 Advanced task 1
 Advanced task 2
+Advanced task 4

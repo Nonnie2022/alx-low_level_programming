@@ -9,3 +9,4 @@ I'm federal agent Jack Bauer, and today is the longest day of my life
 9. Learn your times table
 function that adds two integers and returns result
 A function that prints all natural numbers from n to 98
+Advanced task 1
